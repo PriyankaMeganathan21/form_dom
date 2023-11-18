@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    input-row textarea {
+        width:100%
+    }
+}
+#gender{
+    color: blue;
+}
+#food{
+    color:blue;
+}
+
+table{
+    background-color: lightpink;
+}
